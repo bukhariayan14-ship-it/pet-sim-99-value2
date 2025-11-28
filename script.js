@@ -1,4 +1,3 @@
-
 // scripts.js
 const pets = [
   { name: "Titanic Blobfish", value: "2.6B Gems" },
